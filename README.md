@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rich-T-kid/Rich-T-kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Richard Baah, a Computer Science student at Rutgers University with a passion for coding and problem-solving. Here's a glimpse into my profile:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my technical skills through real-world projects and experiences.
+- 🌱 I’m currently learning advanced AI tools and techniques to further expand my knowledge.
+- 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
+- 🤔 I’m looking for help with exploring new opportunities in the tech industry and connecting with like-minded individuals.
+- 💬 Ask me about my experience in software development, hackathons, and technical maintenance.
+- 📫 How to reach me: rbb98@scarletmail.rutgers.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy participating in hackathons and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my GitHub repositories to see my latest projects and contributions!
