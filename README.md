@@ -28,3 +28,9 @@ I'm **Richard Baah**, a passionate Computer Science student at **Rutgers Univers
 - LinkedIn: [Richard Baah](https://linkedin.com/in/richard-baah)  
 
 Feel free to explore my projects and see how I tackle technical challenges. Let’s connect and create something amazing! 🚀  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rich-T-kid/Rich-T-kid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rich-T-kid/Rich-T-kid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rich-T-kid/Rich-T-kid/output/github-snake.svg" />
+</picture>
