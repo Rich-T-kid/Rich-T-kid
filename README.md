@@ -1,22 +1,30 @@
-### Hi there 👋
 
-I'm Richard Baah, a Computer Science student at Rutgers University with a passion for coding and problem-solving. Here's a glimpse into my profile:
+# Hi there 👋  
+I'm **Richard Baah**, a passionate Computer Science student at **Rutgers University** and a backend developer with a knack for building robust systems and solving complex problems.  
 
-- 🔭 I’m currently working on enhancing my technical skills through real-world projects and experiences.
-- 🌱 I’m currently learning advanced devops tools like docker Kubernetes and github work flows to become a more well rounded dev.
-- 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
-- 🤔 I’m looking for help with exploring new opportunities in the tech industry and connecting with like-minded individuals.
-- 💬 Ask me about my experience in backend - software development, devops , hackathons, .
-- 📫 How to reach me: rbb98@scarletmail.rutgers.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy participating in hackathons and contributing to open-source projects.
+## 🌟 A Little About Me  
+- 🔭 Currently enhancing my skills in **backend development**, **DevOps**, and **real-time systems**.  
+- 🌱 Learning advanced tools like **Docker**, **Kubernetes**, and **GitHub Workflows** to expand my technical horizon.  
+- 👯 Open to collaborating on innovative projects that leverage modern tech stacks.  
+- 💬 Ask me about **Golang**, **microservices**, **DevOps**, or my hackathon experiences.  
+- ⚡ Fun fact: I thrive on hackathons, open-source contributions, and turning ideas into reality.  
 
-Feel free to explore my GitHub repositories to see my latest projects and contributions!
+## 🚀 Technologies and Tools  
+### Languages  
+**Golang**, **Python**, **Java**, **TypeScript**, **SQL**, **C**  
 
+### Frameworks and Libraries  
+**Fiber**, **FastAPI**, **React**, **Django**, **PyTorch**  
 
-Here are some of the key technologies that I am proficient in:
+### Databases  
+**MySQL**, **MongoDB**, **Redis**, **Cassandra**  
 
-- **Languages:** Java, Python, GoLang, SQL (MySQL), JavaScript, HTML/CSS, R
-- **Frameworks:** React, Django, Flask, GOmux, Fiber, FastAPI
-- **Developer Tools:** Git, Docker, Linux, Google Cloud Platform, VS Code,
-- **Libraries:** pandas, NumPy, Matplotlib
+### Tools and Platforms  
+**Docker**, **Kubernetes**, **AWS**, **Google Cloud**, **Git**, **Linux**  
+
+## 📫 Get in Touch  
+- Email: **rbb98@scarletmail.rutgers.edu**  
+- GitHub: [Rich-T-kid](https://github.com/Rich-T-kid)  
+- LinkedIn: [Richard Baah](https://linkedin.com/in/richard-baah)  
+
+Feel free to explore my projects and see how I tackle technical challenges. Let’s connect and create something amazing! 🚀  
